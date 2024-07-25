@@ -20,4 +20,4 @@
 
 ## 1 Развёрнутый инстанс ClickHouse + подключение
 
-![plot](./clickhouse-2024-08-01/homework/clickhouser_server_active.png)
+![plot](./clickhouser_server_active.png)
