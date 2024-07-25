@@ -15,8 +15,3 @@
 - скриншот запущенного clickhouse-server 
 - скриншот подключения к clikhouse из clickhouse-client
 
-# Выполнение
-
-## Запущенный clickhouse-server
-
-![plot](./clickhouse-2024-08-01/homework/clickhouser_server_active.png)
