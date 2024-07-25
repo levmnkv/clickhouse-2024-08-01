@@ -22,3 +22,14 @@ clickhouse-client -h 127.0.0.1 -u default --format_csv_delimiter=";" --query "in
 - 3. вывести топ-10 стран с самыми дорогими винами (country, max_price)
 - 4. `*` определить как высокая цена коррелирует с оценкой дегустатора (насколько дорогие вина хорошие)
 - 5. `*` учесть в выборке также регион производства
+
+# Выполнение
+
+Поскольку был указан пароль для подключения к БД - требовалось чуть-чуть изменить скрипт выгрузки данных из csv-файла источника
+![plot](./pics/how_to_insert.png)
+
+![plot](./pics/create_table_wines.png)
+
+![plot](./pics/insert_into_wines_from_csv.png)
+
+![plot](./pics/select_top10.png)
