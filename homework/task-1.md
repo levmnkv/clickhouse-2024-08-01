@@ -21,3 +21,13 @@
 ## 1 Развёрнутый инстанс ClickHouse + подключение
 
 ![plot](./clickhouser_server_active.png)
+
+## 2 Подключение к БД
+
+Через clickhouse-client:
+
+![plot](./clickhouse_connect_clickhouse_client.png.png)
+
+Через DBeaver:
+
+![plot](./clickhouse_connect_dbeaver.png.png)
