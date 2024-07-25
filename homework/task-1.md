@@ -20,27 +20,27 @@
 
 ## 1 Развёрнутый инстанс ClickHouse + подключение
 
-![plot](./clickhouser_server_active.png)
+![plot](./pics/clickhouser_server_active.png)
 
 ## 2 Подключение к БД
 
 Через clickhouse-client:
 
-![plot](./clickhouse_connect_clickhouse_client.png)
+![plot](./pics/clickhouse_connect_clickhouse_client.png)
 
 Через DBeaver:
 
-![plot](./clickhouse_connect_dbeaver.png)
+![plot](./pics/clickhouse_connect_dbeaver.png)
 
 ## Добавление записей и выполнение SELECT
 
-![plot](./create_table_test.png)
+![plot](./pics/create_table_test.png)
 
 
-![plot](./select_all_from_test.png)
+![plot](./pics/select_all_from_test.png)
 
 
-![plot](./added_9999_records.png)
+![plot](./pics/added_9999_records.png)
 
 
-![plot](./select_10k_records.png)
+![plot](./pics/select_10k_records.png)
