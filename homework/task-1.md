@@ -26,8 +26,8 @@
 
 Через clickhouse-client:
 
-![plot](./clickhouse_connect_clickhouse_client.png.png)
+![plot](./clickhouse_connect_clickhouse_client.png)
 
 Через DBeaver:
 
-![plot](./clickhouse_connect_dbeaver.png.png)
+![plot](./clickhouse_connect_dbeaver.png)
