@@ -36,5 +36,7 @@
 
 ![plot](./create_table_test.png)
 ![plot](./select_all_from_test.png)
+
+
 ![plot](./added_9999_records.png)
 ![plot](./select_10k_records.png)
